@@ -10,7 +10,7 @@ Sou um desenvolvedor apaixonado por tecnologia, IA, produtividade e segurança d
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
 ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-333?style=flat&logo=tensorflow)
-![Zod](https://img.shields.io/badge/-Zod-333?style=flat&logo=data:image/svg+xml;base64,...)
+![Zod](https://img.shields.io/badge/-Zod-333?style=flat&logo=data:image/svg+xml;base64,...) 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
 
 ## 🚀 Projetos em Destaque
