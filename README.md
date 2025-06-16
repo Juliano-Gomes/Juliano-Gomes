@@ -37,6 +37,5 @@ Sou um desenvolvedor apaixonado por tecnologia, IA, produtividade e segurança d
 - GitHub: [@Juliano-Gomes](https://github.com/Juliano-Gomes)
 - LinkedIn: [linkedin.com/Juliano Gomes](https://www.linkedin.com/in/juliano-gomes-228a75302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-![GitHub Snake dark](./dist/github-contribution-grid-snake-dark.svg)
 
-
+![Imagem Legal](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?q=100&w=470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
