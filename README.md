@@ -23,6 +23,8 @@ Sou um desenvolvedor apaixonado por tecnologia, IA, produtividade e segurança d
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juliano-Gomes&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Gomes&layout=compact&theme=github_dark)
+![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Gomes&layout=compact&theme=github_dark&langs_count=100)
+
 
 
 ## 📚 Atualmente aprendendo
