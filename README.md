@@ -1,7 +1,10 @@
 ## 👋 Olá, eu sou o Juliano!
 
-Sou um desenvolvedor apaixonado por tecnologia, IA, produtividade e segurança da informação. Atualmente, estudo **Node.js**, **IA com TensorFlow.js**, **cybersecurity** e construo projetos com **TypeScript**, **Express** e **PostgreSQL**.
+Movido pela experiência do primeiro computador iniciei minha jornada no mundo das tecnologias ,algo que me marcou pelo facto de aprender a resolver problemas computacionais e diarios usando linguagens de programação .
 
+Minha Jornada inicia com o Hello World em python ,em 2021 .E hoje sou desenvolvedor Fullstack com ReactJs + NodeJS uma combinação esmagadora do ecossistema Javascript ,Alem dessas uso e abuso do meu tempo para aprender C , Typescript , Docker ,C++ . Me considero Alguem ainda em desenvolvimento que tem muito a aprender ,mas que esta disposto em aprender
+
+#_ Distante da meta ,mas tambem distante do inicio_#
 
 ## 🛠️ Tecnologias e Ferramentas
 
