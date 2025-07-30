@@ -1,13 +1,77 @@
-## 👋 Olá, eu sou o Juliano!
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=121557FF"/>
 
-Movido pela experiência do primeiro computador iniciei minha jornada no mundo das tecnologias ,algo que me marcou pelo facto de aprender a resolver problemas computacionais e diarios usando linguagens de programação .
+<br>
 
-Minha Jornada inicia com o Hello World em python ,em 2021 .E hoje sou desenvolvedor Fullstack com ReactJs + NodeJS uma combinação esmagadora do ecossistema Javascript ,Alem dessas uso e abuso do meu tempo para aprender C , Typescript , Docker ,C++ . Me considero Alguem ainda em desenvolvimento que tem muito a aprender ,mas que esta disposto em aprender
+<div align="center">
+  
+  <b style="font-size:27px">#_ Distante da meta ,mas tambem distante do inicio_#</b>
+  <samp>
+      <br>
+      <b style="font-size:20px">Julien gomes here</b>
+  </samp>
+</div>
+<div align="center">
+  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2FJuliano-Gomes&s=40&c=00ff00&bg=00000000&no=1&ff=digi&tb=%28+0+0+%29+&ta=" /></p> 
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  <img src="https://i.imgur.com/7l961jY.png" width="400">
+</div>
+<br>
 
-#_ Distante da meta ,mas tambem distante do inicio_#
+<br>
+<br>
 
-## 🛠️ Tecnologias e Ferramentas
+<div align="center" width="100%">
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=121557FF&width=900&size=22&center=true&lines=I+am+from+Angola;I'm+a+student+of+electrical+engineering+and+computers;I'm+also+a+fullstack+web+developer;+living+in+Portugal" alt="Typing SVG"/>
+</div>
 
+<br>
+<br>
+
+<div align="center">  
+  <summary>
+      <samp>
+        <b>...</b>
+      </samp>
+  </summary>
+  
+  <br>
+
+<div align="center">
+  <img
+    height=165
+    align="center"
+    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/?username=Juliano-gomes&show_icons=true&count_private=true&rank_icon=github&theme=midnight-purple&font=Iosevka"
+  />
+  <img
+    height=165
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Gomes&layout=compact&font=Iosevka&langs_count=16&theme=midnight-purple"
+  />
+  <br>
+  <br>
+  <img
+    align="center"
+    alt="Top Language"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Juliano-Gomes&theme=midnight_purple"
+  />
+  <br>
+  <br>
+  <img
+    height=154
+    align="center"
+    alt="Top Language"
+    src="https://github-readme-streak-stats.herokuapp.com?user=Juliano-Gomes&theme=midnight-purple&card_width=885"
+  />
+  </div>
+
+<div align="center" style="display: inline_block"><br>
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
@@ -15,31 +79,34 @@ Minha Jornada inicia com o Hello World em python ,em 2021 .E hoje sou desenvolve
 ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-333?style=flat&logo=tensorflow)
 ![Zod](https://img.shields.io/badge/-Zod-333?style=flat&logo=data:image/svg+xml;base64,...) 
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+  
+</div>
 
-## 🚀 Projetos em Destaque
+<br>
 
-- [🧠 Time Management AI](https://github.com/Juliano-Gomes/Time-manegiment-AI-project)  
-  API inteligente para recomendações de produtividade com Node.js, JWT, Zod, TensorFlow.js e PostgreSQL.
+##
 
+<br>
 
-## 📊 Estatísticas
+<div align="center">
+  <samp>
+    <b styles="font-size:25px">
+      hit  me up :
+    </b>
+  </samp>
+  <br>
+  <br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Juliano-Gomes&show_icons=true&theme=github_dark)
-![All Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Juliano-Gomes&layout=compact&theme=github_dark&langs_count=100)
-
-
-
-## 📚 Atualmente aprendendo
-
-- 🧠 IA com TensorFlow.js
-- 🛡️ Cybersecurity (Hack The Box, OWASP, Red Team)
-- 🔧 Clean Architecture em projetos com Express
-- 🌍 Inglês e Russo técnico
-
-## 📫 Como me encontrar
-
-- GitHub: [@Juliano-Gomes](https://github.com/Juliano-Gomes)
-- LinkedIn: [linkedin.com/Juliano Gomes](https://www.linkedin.com/in/juliano-gomes-228a75302?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+  [![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=9745f5)](mailto:juliengomesgomes@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=9745f5)](https://www.linkedin.com/in/julianogomes01/)
+  
+</div>
 
 
-![Imagem Legal](https://images.unsplash.com/photo-1528716321680-815a8cdb8cbe?q=100&w=470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+
+<br>
+
+</div>
+
+<br>
+<br>
