@@ -72,12 +72,19 @@
   </div>
 
 <div align="center" style="display: inline_block"><br>
+  
 ![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+
 ![Express](https://img.shields.io/badge/-Express-333?style=flat&logo=express)
+
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333?style=flat&logo=postgresql)
+
 ![TensorFlow.js](https://img.shields.io/badge/-TensorFlow.js-333?style=flat&logo=tensorflow)
+
 ![Zod](https://img.shields.io/badge/-Zod-333?style=flat&logo=data:image/svg+xml;base64,...) 
+
 ![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
   
 </div>
